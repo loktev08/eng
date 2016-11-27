@@ -1,0 +1,20 @@
+AFC Bournemouth;7;6;11;8
+Arsenal;7;16;7;16
+Burnley;7;5;9;7
+Chelsea;7;12;9;13
+Crystal Palace;7;11;8;11
+Everton;7;11;5;14
+Hull City;7;7;14;7
+Leicester City;7;8;11;8
+Liverpool;7;18;10;16
+Manchester City;7;18;7;18
+Manchester United;7;13;8;13
+Middlesbrough;7;7;10;6
+Southampton;7;7;6;9
+Stoke City;7;5;16;3
+Sunderland;7;6;13;2
+Swansea City;7;6;12;4
+Tottenham Hotspur;7;12;3;17
+Watford;7;12;13;8
+West Bromwich Albion;7;8;7;9
+West Ham United;7;8;17;4
